@@ -1,0 +1,18 @@
+#far{
+    font-size: 40px;
+    border: 2px solid black;
+    height: fit-content;
+    display: inline-block;
+    
+  
+}
+#demo{
+    font-size: 40px;
+    border: 2px solid black;
+    height: fit-content;
+    display: inline-block;
+    
+}
+.flex{
+    display: flex;
+}
